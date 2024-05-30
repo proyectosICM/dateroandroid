@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dateroandorid</string>
+
+    <!-- Auth Activity -->
+    <string name="auth_verification_text">Ingrese el código de verificación\npara el dispositivo</string>
+    <string name="login_button_text">Validar</string>
+
+    <!-- Principal Panel Activity -->
+    <string name="title_route_text">Datero - Ruta </string>
+</resources>

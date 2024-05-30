@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Contenido del Panel 2 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cambio de Ruta"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <!-- Botones del Panel 2 -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABC - 001 Lima - Callao" />
+
+    <!-- Más contenido del Panel 2 -->
+</LinearLayout>
